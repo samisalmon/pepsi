@@ -1,4 +1,4 @@
-# Pepsi Landing Page
+# [Pepsi Landing Page](https://samisalmon.github.io/pepsi/)
 
 A modern, responsive landing page for Pepsi, featuring a bold hero section, interactive can selector, and a mobile-friendly hamburger menu.
 
